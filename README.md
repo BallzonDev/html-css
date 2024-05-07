@@ -5,6 +5,7 @@ Game & Website Developer
 ------------------------
 
 Experience as a developer for 4 years
+This is the first coding I uploaded on github
 
 * 🌍  I'm based in Thailand
 *  🤝  Wellcome everyone
