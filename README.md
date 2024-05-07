@@ -8,8 +8,8 @@ Experience as a developer for 4 years
 
 * 🌍  I'm based in Thailand
 *  🤝  Wellcome everyone
-* 🖥️  Vscode
-* ✉️  You can contact me at [d](mailto:d)
+* 🖥️  Developer Program Vscode Figma
+* ✉️  You can contact me at [Github]
 * 🧠  I have developed is RedM Fivem Website Discord
 * ⚡  My skill level Normal
 
