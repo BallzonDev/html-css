@@ -6,8 +6,12 @@ Game & Website Developer
 
 Experience as a developer for 4 years
 
-* 🌍  I'm based in Thailand
-* 🧠  I'm learning RedM Fivem Website Discord
+* 🌍  I'm based in Thailand
+*  🤝  Wellcome everyone
+* 🖥️  Vscode
+* ✉️  You can contact me at [d](mailto:d)
+* 🧠  I have developed is RedM Fivem Website Discord
+* ⚡  My skill level Normal
 
 ### Skills
 
