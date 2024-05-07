@@ -1,1 +1,1 @@
-# สวัสดีจ้าาผมเป็น Developer Gta samp code C#
+# Code แรกสำหรับ Github นี้พร้อมหรือยัง Hello World
